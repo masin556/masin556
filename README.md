@@ -26,7 +26,7 @@
 #### Tools
 <p>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Microsoft-#5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 </p>
 
 #### Stats
