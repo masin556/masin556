@@ -17,6 +17,8 @@
 
 
 
+
+
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
@@ -24,6 +26,9 @@
 | **Army Career** | 2015. 02 ~ 2020. 04  | 201Commando -> Special forces | **International Peace Supporting Standby Force** |
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
+
+
+
 
 
 
@@ -39,9 +44,9 @@
 <img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 </p>
 
-#### Stats
 
 <div align=center>
+-#### Stats -
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=vue-dark&show_icons=true)
 
