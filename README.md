@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Blog-E12828?style=flat-square&logo=Ethereum&logoColor=white"/><url=https://ppatabox.tistory.com/>
+<img src="https://img.shields.io/badge/Blog-E12828?style=flat-square&logo=Ethereum&logoColor=white"/>(https://ppatabox.tistory.com/)
 
 
 
