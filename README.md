@@ -7,10 +7,10 @@
 
 
 <p>
-  👋&nbsp; Hi there! I'm ChungSik Call me John, and also I'm<b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
-  I have Big Dream!! To Make AI NPC and VR Game Platform. I can't express everything I think of, but this will definitely provide           humanity with great happiness and joy! 💖<br/>
-  I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
-  I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
+  👋&nbsp; Hi there! I'm ChungSik Call me John<br/>I'm<b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
+  💬I have Big Dream!! To Make AI NPC and VR Game Platform. I can't express everything I think of, but this will definitely provide           humanity with great happiness and joy! 💖<br/>
+  💬I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
+  💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
 </p>
 
 
