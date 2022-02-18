@@ -38,6 +38,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=gruvbox_light)](https://github.com/masin556)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+  
+<hr>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%masin556)]
 </div>
