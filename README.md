@@ -16,6 +16,7 @@
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
 </p>
 
+
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
@@ -23,12 +24,8 @@
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
 | **Army Career** | 2015. 02 ~ 2020. 04  | 201Commando -> Special forces | **International Peace Supporting Standby Force** |
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
-/*
-| **Research activities** | 2020. 1 ~ 7, 2021. 1 ~ 4 | Team leader of 6, 8th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ 2021. 5 | Contract Worker - SW Engineer (Intel) | **ManPower** |
-| **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
-| **:office:Employment** | 2021. 6 ~ | AI R&D Engineer | **Intel** |
-*/
+
+
 ### 💪 Skills 
 #### Platforms & Languages
 <p>
