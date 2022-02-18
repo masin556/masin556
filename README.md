@@ -31,5 +31,5 @@
 #### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true) 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnsik556">
 
