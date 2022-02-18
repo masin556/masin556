@@ -1,10 +1,9 @@
 <div align=center>
-  <p>
   <a href="https://ppatabox.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:johnsik556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johnsik556@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCcdPNmN7p2eEIcyPzMrVeLw" target="_blank"><img src="https://img.shields.io/badge/PPATABOX-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.instagram.com/ppatabox/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
-</p></div>
+</div>
 
 <hr>
 
@@ -17,6 +16,7 @@
 </p>
 
 
+
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
@@ -24,6 +24,8 @@
 | **Army Career** | 2015. 02 ~ 2020. 04  | 201Commando -> Special forces | **International Peace Supporting Standby Force** |
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
+
+
 
 ### 💪 Skills 
 #### Platforms & Languages
@@ -40,11 +42,12 @@
 #### Stats
 
 <div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=gruvbox_light)](https://github.com/masin556)
 
 #
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
+  
 </div>
