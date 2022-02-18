@@ -3,13 +3,10 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://ppatabox.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Blog-655ced?style=flat&logo=Blogger&link=https://ppatabox.tistory.com/"
+</a> <a href="https://ppatabox.tistory.com/"><img 
+        src="http://img.shields.io/badge/Blog-E12828?style=flat&logo=Blogger&link=https://ppatabox.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<img src="https://img.shields.io/badge/Blog-E12828?style=flat-square&logo=Ethereum&logoColor=white"/>
 
 
 
