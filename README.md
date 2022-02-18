@@ -4,17 +4,15 @@
   <a href="https://ppatabox.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:johnsik556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johnsik556@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCcdPNmN7p2eEIcyPzMrVeLw" target="_blank"><img src="https://img.shields.io/badge/PPATABOX-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ppatabox/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 </p>
 
-<a href="https://www.instagram.com/ppatabox/"><img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
-        <a href="https://ppatabox.tistory.com/"><img 
-        src="http://img.shields.io/badge/Blog-E12828?style=flat&logo=Blogger&link=https://ppatabox.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-
+<p>
+  👋&nbsp; Hi there! I'm ChungSik Call me John, and also I'm<b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
+  I have Big Dream!! To Make AI NPC and VR Game Platform. I can't express everything I think of, but this will definitely provide     humanity with great happiness and joy! 💖<br/><br/>
+  I enjoy Running, HearClassic, Physicalexercise ⛰ :running:br/>
+  I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
 </p>
-
 
 
 
