@@ -8,8 +8,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-
+<div>
+    
 Platforms & Languages
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=111"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
