@@ -30,4 +30,4 @@
 #### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/masin556)
