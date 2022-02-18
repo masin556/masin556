@@ -43,8 +43,8 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=gruvbox_light)](https://github.com/masin556)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=vue-dark)](https://github.com/masin556)
 
 #
   
