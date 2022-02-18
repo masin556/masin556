@@ -16,7 +16,7 @@
 
 
 
-### 💪 Skills
+### 💪 Skills <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 #### Platforms & Languages
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=111"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
