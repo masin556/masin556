@@ -47,7 +47,6 @@
 
 #
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=vue-dark)](https://github.com/masin556)  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masin556&layout=compact&theme=vue-dark)](https://github.com/masin556) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
   
 </div>
