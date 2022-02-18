@@ -6,6 +6,7 @@
   <a href="https://www.instagram.com/ppatabox/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 </p></div>
 
+
 <p>
   👋&nbsp; Hi there! I'm ChungSik Call me John. I'm <b>Game Programming developer</b>using UnrealEngine and C++. 🚀<br/>
   💬I have Big Dream!! To Make AI NPC and VR Game Platform.⚡<br/>
@@ -30,6 +31,6 @@
 #### Stats
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=gruvbox_light&show_icons=true)     [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
   
 </div>
