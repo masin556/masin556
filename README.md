@@ -1,18 +1,12 @@
 ### Hi there 👋
 <a href="https://www.instagram.com/ppatabox/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://ppatabox.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Blog-655ced?style=flat&logo=Blogger&link=https://ppatabox.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <img src="https://img.shields.io/badge/Blog-E12828?style=flat-square&logo=Ethereum&logoColor=white"/>
