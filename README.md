@@ -2,7 +2,7 @@
 
 Platforms & Languages
 
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=111"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=111"/>
 <!--
 **masin556/masin556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
