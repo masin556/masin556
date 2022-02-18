@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+<p>
+  <a href="https://ppatabox.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:johnsik556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johnsik556@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCcdPNmN7p2eEIcyPzMrVeLw" target="_blank"><img src="https://img.shields.io/badge/PPATABOX-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+</p>
 
 <a href="https://www.instagram.com/ppatabox/"><img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"
@@ -9,13 +13,12 @@
         src="http://img.shields.io/badge/Blog-E12828?style=flat&logo=Blogger&link=https://ppatabox.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
+</p>
 
 
 
 
-
-    
-:muscle:##Platforms & Languages
+### :muscle: Skills
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=111"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 
