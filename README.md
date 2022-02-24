@@ -21,6 +21,7 @@
   💬I can't express everything I think of, but this will definitely provide humanity with great happiness and joy! 💖<br/>
   💬I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
+  🐳 My MBTI is ENTJ + ENTP
 </p>
 
 
@@ -46,6 +47,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
+
 #### Tools
 <p>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
@@ -53,10 +55,26 @@
 </p>
 
 
+#### DevOps
+<p>
+
+</p>
+
+
+#### Collaboration and Tools
+<p>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
+
+</p>
+
+<hr>
+
+
 <div align=center>
   
 ### ⚡ Stats
-
+<br/>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=vue-dark&show_icons=true)
 
 #
