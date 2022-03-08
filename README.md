@@ -32,6 +32,8 @@
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2011. 3 ~ 2014. 2 | Electronic communication | **Kwangwoon Electronics High School** |
+| **:school_satchel: activities** | 2012. 4 ~ 2013. 6 | Musical theater actor | **Kwangwoon Electronics High School** |
 | **Army Career** | 2015. 02 ~ 2020. 04  | 201Commando -> Special forces | **International Peace Supporting Standby Force** |
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
