@@ -14,6 +14,7 @@
 </div>
 
 <hr>
+<br/>
 
 <p>
   👋&nbsp; Hi there! I'm ChungSik Call me John. I'm <b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
@@ -23,8 +24,6 @@
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
   🐳 My MBTI is ENTJ + ENTP
 </p>
-
-
 
 
 
@@ -41,7 +40,7 @@
 
 
 
-
+<br/>
 
 
 ### 💪 Skills 
@@ -50,6 +49,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
+<br/>
 
 #### Tools
 <p>
@@ -57,12 +57,14 @@
 <img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 </p>
 
+<br/>
 
 #### DevOps
 <p>
 
 </p>
 
+<br/>
 
 #### Collaboration and Tools
 <p>
