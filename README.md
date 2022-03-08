@@ -37,6 +37,7 @@
 | **Army Career** | 2015. 02 ~ 2020. 04  | 201Commando -> Special forces | **International Peace Supporting Standby Force** |
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
+| **:mortar_board: Education** | 2021. 10 ~ 2022. ~ | Game Programming | **SGA Academy** |
 
 
 
