@@ -28,7 +28,7 @@
 
 
 
-### :purple_heart: Career
+### :purple_heart: Activities
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
