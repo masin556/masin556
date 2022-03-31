@@ -22,7 +22,7 @@
   💬I can't express everything I think of, but this will definitely provide humanity with great happiness and joy! 💖<br/>
   💬I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
-  🐳 My MBTI is ENFJ + ENTP + 
+  🐳 My MBTI is ENFJ + ENTP + ENTJ
 </p>
 
 
