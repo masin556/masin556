@@ -3,7 +3,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/65951253/155552022-a48ead64-a56d-43d1-a417-7203e4586f4b.png)<br/>
   
 </p>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Notion</title>
 
 <div align=center>
   <a href="https://ppatabox.notion.site/PPATABOX-The-World-of-Study-74a372e18eec49d8a6131d442bca855e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
