@@ -9,8 +9,6 @@
   <a href="https://ppatabox.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:johnsik556@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johnsik556@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCcdPNmN7p2eEIcyPzMrVeLw" target="_blank"><img src="https://img.shields.io/badge/DevPPATABOX-FF6550?style=flat-square&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ppatabox/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ppatabox/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
-</div>
 
 <hr>
 <br/>
