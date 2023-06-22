@@ -13,14 +13,13 @@
 <hr>
 <br/>
 
-<p>
+<div align="Left">
   👋&nbsp; Hi there! I'm ChungSik Call me John. I'm <b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
   💬I have Big Dream!! To Make AI NPC and VR Game Platform.⚡<br/>
   💬I can't express everything I think of, but this will definitely provide humanity with great happiness and joy! 💖<br/>
   💬I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
-  🐳 My MBTI is ENFJ + INFJ
-</p>
+</div>
 
 
 
@@ -50,23 +49,25 @@
 
 #### Tools
 <p>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UnrealEngine4-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UnrealEngine5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
 <img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
+  
 </p>
+
 
 <br/>
 
-#### DevOps
-<p>
-
-</p>
 
 <br/>
 
 #### Collaboration and Tools
 <p>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"/> 
 </p>
 
 <hr>
