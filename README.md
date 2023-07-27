@@ -33,7 +33,7 @@
 | **External activities** | 2018. 8~ 2019.04 | UN_Lebanon peace Keeper | **UN_PKO** |
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
 | **:mortar_board: Education** | 2021. 10 ~ 2022. 10 | Game Programming | **SGA Academy** |
-| **:mortar_board: Project** | 2023. 06 ~  | one-man project | **UnrealEngine5 Project CPP** |
+| **Project** | 2023. 06 ~  | one-man project | **UnrealEngine5 Project CPP** |
 
 
 <br/>
