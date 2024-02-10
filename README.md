@@ -13,13 +13,13 @@
 <hr>
 <br/>
 
-<div align="Left">
+<!--<div align="Left">
   👋&nbsp; Hi there! I'm ChungSik Call me John. I'm <b>Game Programming developer</b> using UnrealEngine and C++. 🚀<br/>
   💬I have Big Dream!! To Make AI NPC and VR Game Platform.⚡<br/>
   💬I can't express everything I think of, but this will definitely provide humanity with great happiness and joy! 💖<br/>
   💬I enjoy Running, HearClassic, Physicalexercise ⛰ :running:<br/>
   💬I hope to be a known developer in the world that can give happiness and pleasure to mankind!✨ <br/><br/>
-</div>
+</div>-->
 
 
 
@@ -75,15 +75,15 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
 
-<hr>
-
-
-<div align=center>
+<hr></hr>
   
+<!--<div align=center>-->
+
 ### ⚡ Stats
+
 <br/>
-  
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
-  
-</div>
+
+![ChungSik's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=masin556)](https://solved.ac/masin556)
+
+<!--</div>-->
