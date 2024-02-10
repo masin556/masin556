@@ -41,7 +41,7 @@
 
 
 ### 💪 Skills 
-#### Platforms & Languages
+#### Pramework & Languages 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
@@ -54,7 +54,10 @@
 <img src="https://img.shields.io/badge/UnrealEngine5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
 <img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/> 
+</p>
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   
 </p>
 
@@ -67,8 +70,9 @@
 #### Collaboration and Tools
 <p>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
 
 <hr>
