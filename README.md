@@ -34,7 +34,7 @@
 | **:mortar_board: Education** | 2018. 3 ~ 2021. 2 | Business | **Bucheon College** |
 | **:mortar_board: Education** | 2021. 10 ~ 2022. 10 | Game Programming | **SGA Academy** |
 | **:mortar_board: Education** | 2023. 10 ~ 2024. 03 | BlockChain Game Server | **SeSAC[SBA]** |
-| **Project** | 2023. 06 ~  | MMORPG | **UnrealEngine5 Project** |
+| **Project** | 2024. 03 ~  | CasualIndie | **UnrealEngine5 Project** |
 
 
 <br/>
