@@ -35,7 +35,7 @@
 | **:mortar_board: Education** | 2021. 10 ~ 2022. 10 | Game Programming | **SGA Academy** |
 | **:mortar_board: Education** | 2023. 10 ~ 2024. 03 | BlockChain Game Server | **SeSAC[SBA]** |
 | **Project** | 2024. 03 ~  | CasualIndie | **UnrealEngine5 Project** |
-| **Work** | 2024. 11 ~  | FTS Global(Forces Training System) | **working _ Chief** |
+| **Work** | 2024. 11 ~  | FTS Global(Forces Training System) | ** M&S(Modeling&Simulation)_Chief** |
 
 <br/>
 
